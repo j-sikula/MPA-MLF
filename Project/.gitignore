@@ -1,0 +1,6 @@
+./x_test*
+./x_train*
+./y_test*
+./y_train*
+img_*
+y_train_v2.csv
